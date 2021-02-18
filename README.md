@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![Metrics](https://metrics.lecoq.io/therealgabryx?template=classic&isocalendar=1&languages=1&followup=1&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome&config.animated=true)
 
