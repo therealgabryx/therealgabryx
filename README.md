@@ -1,6 +1,5 @@
 
-
-![Metrics](https://metrics.lecoq.io/therealgabryx)
+![Metrics](https://metrics.lecoq.io/therealgabryx?template=classic&introduction=1&isocalendar=1&languages=1&lines=1&followup=1&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome)
 
 <!--
 **therealgabryx/therealgabryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
